@@ -1,7 +1,10 @@
 numpy
 pandas
+matplotlib
 Flask
 seaborn
 ipykernel
+scikit-learn
 
+# -e . has been used to connect it with the setup.py to create package
 -e .
