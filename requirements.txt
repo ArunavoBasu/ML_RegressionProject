@@ -1,0 +1,7 @@
+numpy
+pandas
+Flask
+seaborn
+ipykernel
+
+-e .
